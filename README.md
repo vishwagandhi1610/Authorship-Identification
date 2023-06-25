@@ -28,7 +28,8 @@ Link - http://www.cs.cmu.edu/~enron/
 7. Now simplt run the S4A and S4B files and you should be able to generate all the models and their outputs.
 
 ## Team Members
-1. Abhisekh Gupta - akgupta3@ncsu.edu
-2. Neel Shah - npshah6@ncsu.edu
-3. Shaival Shah - sshah35@ncsu.edu
-4. Vishwa Gandhi - vgandhi@ncsu.edu
+1. Vishwa Gandhi - vgandhi@ncsu.edu
+2. Abhisekh Gupta - akgupta3@ncsu.edu
+3. Neel Shah - npshah6@ncsu.edu
+4. Shaival Shah - sshah35@ncsu.edu
+
